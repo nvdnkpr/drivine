@@ -1,1 +1,1 @@
-export type QueryLanguage = 'CYPHER' | 'SQL' | 'PLATFORM_DEFAULT';
+export type QueryLanguage = 'CYPHER' | 'SQL' | 'AQL' | 'PLATFORM_DEFAULT';
